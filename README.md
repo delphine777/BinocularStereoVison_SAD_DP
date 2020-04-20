@@ -11,14 +11,14 @@ SAD(u,v) = Sum{|Left(u,v) - Right(u,v)|}  is to find the minimum difference of t
 The input images include a pair of rectified images captured by both left and right camera:
 Left:
 
-![image](http://github.com/delphine777/BinocularStereoVison_SAD_DP/left.jpg)
+![image](http://github.com/delphine777/BinocularStereoVison_SAD_DP/raw/master/left.jpg)
 
 Right:
 
-![image](http://github.com/delphine777/BinocularStereoVison_SAD_DP/right.jpg)
+![image](http://github.com/delphine777/BinocularStereoVison_SAD_DP/raw/master/right.jpg)
 
 The disparity Map calculated from left to right is:
-![image](http://github.com/delphine777/BinocularStereoVison_SAD_DP/disparity1.jpg)
+![image](http://github.com/delphine777/BinocularStereoVison_SAD_DP/raw/master/disparity1.jpg)
 
 From right to left is:
-![image](http://github.com/delphine777/BinocularStereoVison_SAD_DP/disparity2.jpg)
+![image](http://github.com/delphine777/BinocularStereoVison_SAD_DP/raw/master/disparity2.jpg)
